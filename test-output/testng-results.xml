@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14213" started-at="2020-10-18T04:11:55 EET" finished-at="2020-10-18T04:12:09 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14213" started-at="2020-10-18T04:11:55 EET" finished-at="2020-10-18T04:12:09 EET">
+      <class name="WebTest.WebTest.RegTest">
+        <test-method status="PASS" signature="opennBrowser()[pri:0, instance:WebTest.WebTest.RegTest@2c039ac6]" name="opennBrowser" is-config="true" duration-ms="9660" started-at="2020-10-18T04:11:55 EET" finished-at="2020-10-18T04:12:04 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opennBrowser -->
+        <test-method status="PASS" signature="RegMethod(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:WebTest.WebTest.RegTest@2c039ac6]" name="RegMethod" duration-ms="4192" started-at="2020-10-18T04:12:05 EET" data-provider="data" finished-at="2020-10-18T04:12:09 EET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vikings1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vikings1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Vikings1@mailinator.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Vikings1@mailinator.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Vikings1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Password0101]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[01-Jan-1999]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1.142607705E9]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Jacson steet]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Cairo]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[14285.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegMethod -->
+      </class> <!-- WebTest.WebTest.RegTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
